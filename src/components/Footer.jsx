@@ -9,9 +9,11 @@ const Footer = () => {
       <Link to="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
        
       </Link>
-      <span className="mb-3 mb-md-0 text-muted">© 2023 GoFood, Inc</span>
+      <span className="mb-3 mb-md-0 text-muted">© Copyright 2023 developed by Sahil</span>
+   
     </div>
 
+    <span>email:sahiltiwari1222@gmail.com</span>
     <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
     
     </ul>
